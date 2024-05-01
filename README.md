@@ -1,5 +1,5 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** |
+| 💻 **Technology**
 |-|-|
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | 
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
