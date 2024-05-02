@@ -23,9 +23,6 @@
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
      <br>
-     <img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>
-     <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-     <br>
      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
      <br>
@@ -36,8 +33,6 @@
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
      <br>
-     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-     <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
    </td>
    <td>
