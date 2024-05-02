@@ -7,21 +7,16 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👑 &nbsp; Junior Java Back-end Developer </li>
+        <li>🎓 &nbsp; High School :)
+        <li>📚 &nbsp; Studying Software Engineering
+        <li>👑 &nbsp; Junior C+ Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
        </ul>
        <p align="center">
          <br>        </p>
     </td>
-    <td>
-     <p align="center">
-        <img height="360em" src="https://i.ibb.co/zNtZkpY/6d1e3e4f-501a-4468-b801-15e8e53cf475.png"/>
-     </p>
-    </td>
-  </tr>
-  <tr>
+
+     
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
@@ -65,17 +60,11 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <a href="https://guns.lol/god666" >
+      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/gun" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:tabansly78@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
-      </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+            <a href="zento666" >
+      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/discord" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
@@ -84,7 +73,3 @@
 </table>
 
 ------
-
-Credit: [Taabannn](https://github.com/Taabannn)
-
-Last Edited on: 07/08/2022
