@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-## I'm Taban Soleymani
+## I'm Zento
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <table>
   <tr>
