@@ -10,7 +10,7 @@
         <li>🎓 &nbsp; High School :)
         <li>📚 &nbsp; Studying Software Engineering
         <li>👑 &nbsp; Junior C+ Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>🤔 &nbsp; Interested in Reverse Engineering and Optimization</li>
        </ul>
        <p align="center">
          <br>        </p>
