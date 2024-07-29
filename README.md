@@ -7,7 +7,6 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; High School :)
         <li>📚 &nbsp; Studying Software Engineering
         <li>👑 &nbsp; Junior C+ Developer </li>
         <li>🤔 &nbsp; Interested in Reverse Engineering and Optimization</li>
